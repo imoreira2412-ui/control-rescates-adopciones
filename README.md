@@ -19,7 +19,7 @@ Diseñar la arquitectura del sistema mediante diagramas UML, aplicar patrones de
 - GitHub para el repositorio y el control de versiones.
 
 ## Autor
-Escribe aquí tu nombre completo.
+Moreira Bravo Ivan Estuardo
 
 ## Estado
 En desarrollo.
